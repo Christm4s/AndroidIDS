@@ -1,2 +1,2 @@
 # AndroidIDS
-Intrusion Detection system for adnroid mobile devices.
+Intrusion Detection system for android mobile devices.
